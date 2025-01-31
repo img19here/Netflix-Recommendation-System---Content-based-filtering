@@ -33,3 +33,16 @@ Content-Based Filtering: The system also considers movie/TV show features such a
 
 - <ins>Real-Time Recommendations</ins>: Implement real-time prediction updates based on user interaction.
 
+ **Link to Live Demo**:
+ 
+ https://netflix-recommendation-system---content-based-filtering-7emoek.streamlit.app/
+
+ ![image](https://github.com/user-attachments/assets/5362ebf8-d2db-4a88-b2fb-93cd2078e56f)
+ ![image](https://github.com/user-attachments/assets/82b71553-ca2f-4788-974b-6bfea3ac6424)
+ ![image](https://github.com/user-attachments/assets/3f1d7292-4e94-4f72-b499-be2772488279)
+
+
+
+
+
+
